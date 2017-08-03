@@ -31,5 +31,8 @@ Additional Information
 ========================================================
 - The next word prediction app is hosted on shinyapps.io: https://fanouyang.shinyapps.io/predictionnextword/
 
+-- Check out my github rep for more info:
+https://github.com/fanouyang/predictnextword
+
 - Learn more about the Coursera Data Science Specialization: 
 https://www.coursera.org/specializations/jhu-data-science
